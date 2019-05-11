@@ -1,0 +1,5 @@
+main()	
+{
+ string sh;
+ system.out.print("Hello world")
+}

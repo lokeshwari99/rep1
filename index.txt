@@ -1,0 +1,6 @@
+main()	
+{
+int a,b;
+printf("enter number")
+scanf("a")
+}
